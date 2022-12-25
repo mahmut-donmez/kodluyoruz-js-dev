@@ -9,11 +9,11 @@
 
 <div align="center">
   <h3>
-    <a href="">
+    <a href="https://elaborate-cupcake-24caad.netlify.app">
       Demo
     </a>
     <span> | </span>
-    <a href="">
+    <a href="https://github.com/mahmut-donmez/kodluyoruz-js-dev">
       Solution
     </a>
     <span> | </span>
