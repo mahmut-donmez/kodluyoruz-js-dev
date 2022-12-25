@@ -4,7 +4,7 @@
 <h1 align="center">kodluyoruz js ödev</h1>
 
 <div align="center">
-   Solution for a challenge from  <a href="https://kodluyoruz.org/tr/kodluyoruz/" target="_blank">kodluyoruz</a>.
+   Solution for a challenge from  <a href="https://www.patika.dev/tr" target="_blank">patika</a>.
 </div>
 
 <div align="center">
